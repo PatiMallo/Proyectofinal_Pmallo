@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Atorva",
+        "precio": 200,
+        "imagen": "./imagenes/atorva.jpg"
+    },
+    {
+        "nombre": "Abrilar",
+        "precio": 250,
+        "imagen": "./imagenes/abrilar.jpg"
+    },
+    {
+        "nombre": "Tosilar",
+        "precio": 300,
+        "imagen": "./imagenes/tosilar.jpg"
+    },
+    {
+        "nombre": "Actron",
+        "precio": 100,
+        "imagen": "./imagenes/actron.jpg"
+    },
+    {
+        "nombre": "Alerfedine",
+        "precio": 150,
+        "imagen": "./imagenes/alerfedine.jpg"
+    },
+    {
+        "nombre": "Amoxidal",
+        "precio": 400,
+        "imagen": "./imagenes/amoxidal.jpg"
+    },
+    {
+        "nombre": "Armonil",
+        "precio": 500,
+        "imagen": "./imagenes/armonil.jpg"
+    },
+    {
+        "nombre": "Atenolan",
+        "precio": 200,
+        "imagen": "./imagenes/atenolan.jpg"
+    },
+    {
+        "nombre": "Azopt",
+        "precio": 500,
+        "imagen": "./imagenes/azopt.jpg"
+    },
+    {
+        "nombre": "Bactrin",
+        "precio": 450,
+        "imagen": "./imagenes/bactrin.jpg"
+    },
+    {
+        "nombre": "Ventolin",
+        "precio": 1000,
+        "imagen": "./imagenes/ventolin.jpg"
+    },
+    {
+        "nombre": "Loratadina",
+        "precio": 100,
+        "imagen": "./imagenes/loratadina.jpg"
+    },
+    {
+        "nombre": "Aklis",
+        "precio": 200,
+        "imagen": "./imagenes/aklis.jpg"
+    },
+    {
+        "nombre": "Lipiduce",
+        "precio": 100,
+        "imagen": "./imagenes/lipiduce.jpg"
+    }
+]
